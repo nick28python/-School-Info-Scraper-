@@ -28,6 +28,6 @@ Data is stored in `data/sample_site_schools.csv` with columns:
 
 📂 Output CSV Example
 
-      Name	               Email
-Sunshine High School	info@sunshinehigh.edu
-Greenfield Academy	contact@greenfield.ac.uk
+   Name | Email
+Sunshine High School | info@sunshinehigh.edu
+Greenfield Academy | contact@greenfield.ac.uk
